@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Muhammad Fahad</h1>
 <h3 align="center">A passionate Programmer from Pakistan</h3>
 
