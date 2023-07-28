@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahad-developer&label=Profile%20views&color=0e75b6&style=flat" alt="fahad-developer" /> </p>
 
-- 🌱 I’m currently learning **Django, Open CV, Numpy, Pandas, Matplot,Voice Recognition, Data Structure and algorithms, Mongo DB.**
+- 🌱 I’m currently learning **Wordpress, Django, Open CV, Numpy, Pandas, Matplot,Voice Recognition, Data Structure and algorithms, Mongo DB.**
 
 - 💬 Ask me about **Web Development, Data Sciecne.**
 
