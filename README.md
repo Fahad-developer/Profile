@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahad-developer&label=Profile%20views&color=0e75b6&style=flat" alt="fahad-developer" /> </p>
 
-- 🌱 I’m currently learning **Wordpress, Data Analytics, Business Intelligence, Web Scrapping, Data Science, Python, Flutter Development, Dart, Open CV, Machine Learning, Numpy, Pandas, Matplot Lib, Data Structure and algorithms, SQL, Data Visualization, Statistics and Data Engineering.**
+- 🌱 I’m currently learning **Wordpress, No Code App Development, Data Structure and algorithms, SQL, Cloud Technology, HTML, Css, JavaScript, React, UI/UX, Python, Django, Django Rest FrameWork(DRF), API Development, API Testing, Web Security.**
+  
+- 👨🏻‍🎓 Undergraduate Student of Computer Science at University of Balochistan.
 
-- 💬 Ask me about **Flutter Development and Data Sciecne.**
+- 💬 Ask me about **Frontend Development & Backend Development.**
 
 - 📫 How to reach me **fahadrana685@gmail.com**
 
