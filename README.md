@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahad-developer&label=Profile%20views&color=0e75b6&style=flat" alt="fahad-developer" /> </p>
 
-- 🌱 I’m currently learning **Wordpress, No Code App Development, Data Structure and algorithms, SQL, Mongodb, Cloud Technologies, HTML, Css, JavaScript, React, UI/UX, Python, Django, Django Rest FrameWork(DRF), API Development, API Testing, Web Security.**
+- 🌱 I’m currently learning **Wordpress, No Code App Development, Data Structure and algorithms, Mongodb, Cloud Technologies (AWS), HTML, Css, JavaScript, React, UI/UX, API Development, API Testing, Web Security.**
   
 - 👨🏻‍🎓 Undergraduate Student of Computer Science at University of Balochistan.
 
