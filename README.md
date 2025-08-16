@@ -19,13 +19,10 @@
 
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
-  <a href="https://instagram.com/rana_fahad310" target="blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" />
-  </a>
-  <a href="mailto:fahadrana685@gmail.com" target="blank">
+  <a href="mailto:fahadrana685@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
+  <a href="https://www.linkedin.com/in/muhammad-fahad-04bb70245/" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
   </a>
 </p>
