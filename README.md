@@ -1,28 +1,57 @@
-<h1 align="center">Hi 👋, I'm Muhammad Fahad</h1>
-<h3 align="center">A passionate Programmer from Pakistan</h3>
+<h1 align="center">🚀 Hi, I'm Muhammad Fahad</h1>
+<h3 align="center">Next-Gen MERN Stack Developer | Full Stack Enthusiast | Cloud Learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahad-developer&label=Profile%20views&color=0e75b6&style=flat" alt="fahad-developer" /> </p>
-
-- 🌱 I’m currently learning **Wordpress, No Code App Development, Data Structure and algorithms, Mongodb, Cloud Technologies (AWS), HTML, Css, JavaScript, React, UI/UX, API Development, API Testing, Web Security.**
-  
-- 👨🏻‍🎓 Undergraduate Student of Computer Science at University of Balochistan.
-
-- 💬 Ask me about **Frontend Development & Backend Development.**
-
-- 📫 How to reach me **fahadrana685@gmail.com**
-
-- ⚡ Fun fact **In 2023, there were over 2.7 billion gamers worldwide.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/rana_fahad310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rana_fahad310" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fahad-developer&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahad-developer&show_icons=true&locale=en&layout=compact" alt="fahad-developer" /></p>
+- 🌱 Currently exploring **Next-Gen Web Development**: MERN Stack, Cloud (AWS), DevOps, and Scalable Architectures.  
+- 👨🏻‍🎓 CS Undergraduate @ University of Balochistan.  
+- 💡 Passionate about building **Modern Web Apps, APIs, and Cloud-Native Applications**.  
+- 💬 Ask me about **MERN Stack, APIs, Cloud & DevOps tools**.  
+- 📫 Reach me at: **fahadrana685@gmail.com**  
+- ⚡ Fun fact: **I love turning coffee ☕ into scalable code.**  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahad-developer&show_icons=true&locale=en" alt="fahad-developer" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahad-developer&" alt="fahad-developer" /></p>
+<h3 align="center">🌐 Connect with Me</h3>
+<p align="center">
+  <a href="https://instagram.com/rana_fahad310" target="blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" />
+  </a>
+  <a href="mailto:fahadrana685@gmail.com" target="blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">🛠️ Languages & Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,next,express,nodejs,mongodb,python,django,cpp,git,github,docker,kubernetes,aws,figma" />
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fahad-developer&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahad-developer&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=fahad-developer&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+<h3 align="center">🚀 Vision</h3>
+<p align="center">
+  Building <b>next-gen applications</b> with MERN, Cloud, and DevOps — aiming for <b>performance, scalability, and security</b>.
+</p>
