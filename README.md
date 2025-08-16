@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Hi, I'm Muhammad Fahad</h1>
-<h3 align="center">Next-Gen MERN Stack Developer | Full Stack Enthusiast | Cloud Learner</h3>
+<h3 align="center">MERN Stack Developer | Full Stack Engineer | Cloud & DevOps Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fahad-developer&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
@@ -7,12 +7,13 @@
 
 ---
 
-- 🌱 Currently exploring **Next-Gen Web Development**: MERN Stack, Cloud (AWS), DevOps, and Scalable Architectures.  
-- 👨🏻‍🎓 CS Undergraduate @ University of Balochistan.  
-- 💡 Passionate about building **Modern Web Apps, APIs, and Cloud-Native Applications**.  
-- 💬 Ask me about **MERN Stack, APIs, Cloud & DevOps tools**.  
+- 🎓 **Computer Science Graduate** from University of Balochistan.  
+- 💼 Experienced in **Web Development** with a strong focus on **MERN Stack** and scalable applications.  
+- 🌱 Currently learning and working on **Cloud (AWS), Docker, Kubernetes, CI/CD, and Modern Architectures**.  
+- 💡 Passionate about building **secure, high-performance, and user-centric applications**.  
+- 💬 Ask me about **Full Stack Development, APIs, Cloud & DevOps Tools**.  
 - 📫 Reach me at: **fahadrana685@gmail.com**  
-- ⚡ Fun fact: **I love turning coffee ☕ into scalable code.**  
+- ⚡ Fun fact: **I love solving complex problems and turning ideas into working products 🚀**  
 
 ---
 
@@ -23,6 +24,9 @@
   </a>
   <a href="mailto:fahadrana685@gmail.com" target="blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
   </a>
 </p>
 
@@ -47,6 +51,18 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=fahad-developer&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+<h3 align="center">🚀 Featured Projects</h3>
+<p align="center">
+  <a href="https://github.com/fahad-developer/YOOM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fahad-developer&repo=YOOM&theme=radical" />
+  </a>
+  <a href="https://github.com/fahad-developer/Your-Another-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fahad-developer&repo=Your-Another-Project&theme=radical" />
+  </a>
 </p>
 
 ---
