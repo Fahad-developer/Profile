@@ -22,7 +22,7 @@
   <a href="mailto:fahadrana685@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-fahad-04bb70245/" target="blank">
+  <a href="https://www.linkedin.com/in/muhammad-fahad-04bb70245" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
   </a>
 </p>
@@ -48,23 +48,4 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=fahad-developer&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-<h3 align="center">🚀 Featured Projects</h3>
-<p align="center">
-  <a href="https://github.com/fahad-developer/YOOM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fahad-developer&repo=YOOM&theme=radical" />
-  </a>
-  <a href="https://github.com/fahad-developer/Your-Another-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fahad-developer&repo=Your-Another-Project&theme=radical" />
-  </a>
-</p>
-
----
-
-<h3 align="center">🚀 Vision</h3>
-<p align="center">
-  Building <b>next-gen applications</b> with MERN, Cloud, and DevOps — aiming for <b>performance, scalability, and security</b>.
 </p>
