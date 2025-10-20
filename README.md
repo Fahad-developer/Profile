@@ -31,7 +31,7 @@
 
 <h3 align="center">🛠️ Languages & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,next,express,nodejs,mongodb,python,django,cpp,git,github,gitlab,docker,kubernetes,terraform,ansible,prometheus ,grafana,aws,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,next,express,nodejs,mongodb,python,django,cpp,git,github,gitlab,docker,kubernetes,aws,figma" />
 </p>
 
 ---
